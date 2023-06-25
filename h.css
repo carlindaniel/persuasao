@@ -1,7 +1,12 @@
 body {
     background-color: gray;
   }
-  
+
+  h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
   .image-container {
       position: relative;
       display: inline-block;
